@@ -1,0 +1,17 @@
+.container-popup{
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.container-popup__title{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
